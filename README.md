@@ -19,6 +19,6 @@ This project required the use of Python and Tableau.  The following libraries we
 * sklearn
 * pylab
 
-I used Jupyter to write my python code.  You may access the Jupyter notebooks in the [Scripts]() folder.
+I used Jupyter to write my python code.  You may access the Jupyter notebooks in the [Scripts](03%20Scripts) folder.
 ## Deliverables
 For a summary of the final results of my analysis, see this [Tableau storyboard](https://public.tableau.com/views/TechJobs/TechJobsAnexploratoryanalysisofthesalariesofvariousjobsindataandtechnology?:language=en-US&:display_count=n&:origin=viz_share_link)
